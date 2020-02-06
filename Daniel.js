@@ -8,7 +8,7 @@ function taxPercentage(incomeTax,payRelatedInsurence)
     }
     // monthly salary
     salary(8000000)
-    // net income salary
+
     function salary(netIncome) 
     {
         // total amount of pay as you earn
